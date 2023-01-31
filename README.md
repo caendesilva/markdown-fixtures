@@ -1,5 +1,15 @@
 # markdown-fixtures
+
+## About
+
 A collection of more or less random Markdown documents, used for reference and testing.
+
+## Files
+
+### Basic Syntax
+
+[basic-syntax.md](basic-syntax.md), Markdown file containing all the basic syntax options from the Markdown spec, based on https://www.markdownguide.org/basic-syntax (CC BY-SA 4.0)
+
 
 ## License
 
